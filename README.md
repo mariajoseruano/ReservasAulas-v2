@@ -1,6 +1,6 @@
 # Tarea Reservas de Aulas
 ## Profesor: Andrés Rubio del Río
-## Alumno:
+## Alumno:María José Ruano Fernández
 
 El cliente nos comenta que debemos tener en cuenta los siguientes aspectos:
 
